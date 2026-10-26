@@ -6,7 +6,18 @@
 
 ![Overview of the 8-slide strategy deck](images/deck-overview.png)
 
-**Team:** Hannah Renner and two Cornell Marketing Club teammates
+**Team:** Hannah Renner, Michelle Di Carlo, and Funmi Agboola
+
+## Background
+
+Liquid Death was founded in 2017 by Mike Cessario. It sells canned mountain water with heavy-metal, punk-style branding aimed at people who usually ignore water brands. The product is plain water, so the company grew through marketing and culture:
+
+- **A cheap, viral start.** An early pilot ad cost about $4,500 and reached 3 million views.
+- **Merchandise as a business.** Merch makes up about 1 in 15 sales, roughly $3M.
+- **Partnerships and community,** including the "Liquid Death Country Club" for fans.
+- **Funding.** The company has raised $125 million.
+
+The case comes from the Ivey Business School case *Liquid Death: Water Made Metal* (2022). Our team framed the next step as a single goal: become the "Red Bull" of water.
 
 ## The question
 
